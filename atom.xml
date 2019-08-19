@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>置业顾问学院</title>
   
-  <subtitle>111</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
@@ -13,8 +13,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/2019/06/18/hello-world/"/>
-    <id>/2019/06/18/hello-world/</id>
+    <link href="/2019/hello-world/"/>
+    <id>/2019/hello-world/</id>
     <published>2019-06-18T10:45:44.879Z</published>
     <updated>2019-06-18T10:45:44.879Z</updated>
     
