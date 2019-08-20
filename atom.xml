@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-08-20T06:13:58.987Z</updated>
+  <updated>2019-08-20T06:29:59.172Z</updated>
   <id>/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -16,7 +16,7 @@
     <link href="/2019/pgfzsxsptzspdr/"/>
     <id>/2019/pgfzsxsptzspdr/</id>
     <published>2019-08-20T04:11:58.000Z</published>
-    <updated>2019-08-20T06:13:58.987Z</updated>
+    <updated>2019-08-20T06:29:59.172Z</updated>
     
     <summary type="html">
     
@@ -33,7 +33,9 @@
       <category term="微聊活动" scheme="/categories/%E5%BE%AE%E8%81%8A%E6%B4%BB%E5%8A%A8/"/>
     
     
-      <category term="微聊客 置业顾问" scheme="/tags/%E5%BE%AE%E8%81%8A%E5%AE%A2-%E7%BD%AE%E4%B8%9A%E9%A1%BE%E9%97%AE/"/>
+      <category term="微聊客" scheme="/tags/%E5%BE%AE%E8%81%8A%E5%AE%A2/"/>
+    
+      <category term="置业顾问" scheme="/tags/%E7%BD%AE%E4%B8%9A%E9%A1%BE%E9%97%AE/"/>
     
   </entry>
   
@@ -42,7 +44,7 @@
     <link href="/2019/rhhflpdphwdgc/"/>
     <id>/2019/rhhflpdphwdgc/</id>
     <published>2019-08-20T04:11:58.000Z</published>
-    <updated>2019-08-20T06:24:55.816Z</updated>
+    <updated>2019-08-20T06:30:00.192Z</updated>
     
     <summary type="html">
     
@@ -50,13 +52,23 @@
       
         
         
-          &lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/dianping.gif&quot; alt&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/wenda.gif&quot;
+          &lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/cover.png&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/dianping.gif&quot;
         
       
     
     </summary>
     
+      <category term="技巧教程" scheme="/categories/%E6%8A%80%E5%B7%A7%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="微聊客" scheme="/tags/%E5%BE%AE%E8%81%8A%E5%AE%A2/"/>
+    
+      <category term="置业顾问" scheme="/tags/%E7%BD%AE%E4%B8%9A%E9%A1%BE%E9%97%AE/"/>
+    
+      <category term="实用技巧" scheme="/tags/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="使用教程" scheme="/tags/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -65,7 +77,7 @@
     <link href="/2019/rhsyqhfhqhd/"/>
     <id>/2019/rhsyqhfhqhd/</id>
     <published>2019-08-20T04:11:58.000Z</published>
-    <updated>2019-08-20T06:24:16.308Z</updated>
+    <updated>2019-08-20T06:30:00.870Z</updated>
     
     <summary type="html">
     
@@ -73,13 +85,23 @@
       
         
         
-          &lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/huifu.gif&quot; alt&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/huidian.gif&quot;
+          &lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/cover.png&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/huifu.gif&quot;
         
       
     
     </summary>
     
+      <category term="技巧教程" scheme="/categories/%E6%8A%80%E5%B7%A7%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="微聊客" scheme="/tags/%E5%BE%AE%E8%81%8A%E5%AE%A2/"/>
+    
+      <category term="置业顾问" scheme="/tags/%E7%BD%AE%E4%B8%9A%E9%A1%BE%E9%97%AE/"/>
+    
+      <category term="实用技巧" scheme="/tags/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="使用教程" scheme="/tags/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -88,7 +110,7 @@
     <link href="/2019/rhzcwlkzh/"/>
     <id>/2019/rhzcwlkzh/</id>
     <published>2019-08-20T04:11:58.000Z</published>
-    <updated>2019-08-20T06:24:52.866Z</updated>
+    <updated>2019-08-20T06:30:01.519Z</updated>
     
     <summary type="html">
     
@@ -96,12 +118,23 @@
       
         
         
-          &lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/zhuce.gif&quot;
+          &lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/cover.png&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.weiliaoke.cn/images/course/zhuce.gif&quot;
         
       
     
     </summary>
     
+      <category term="技巧教程" scheme="/categories/%E6%8A%80%E5%B7%A7%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="微聊客" scheme="/tags/%E5%BE%AE%E8%81%8A%E5%AE%A2/"/>
+    
+      <category term="置业顾问" scheme="/tags/%E7%BD%AE%E4%B8%9A%E9%A1%BE%E9%97%AE/"/>
+    
+      <category term="实用技巧" scheme="/tags/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="使用教程" scheme="/tags/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
